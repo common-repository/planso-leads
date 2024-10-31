@@ -1,0 +1,148 @@
+# Translation of PlanSo Leads Plugin in German
+# This file is distributed under the same license as the PlanSo Leads Plugin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-11 15:08:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/0.1\n"
+"Project-Id-Version: PlanSo Leads Plugin\n"
+
+#: planso-leads-external/includes/edit.php:132
+msgid "You need to accept our terms and conditions in order to proceed."
+msgstr "Bitte bestätigen Sie unsere AGB um fortfahren zu können."
+
+#: planso-leads-external/includes/edit.php:155
+#: planso-leads/planso-leads.php:313
+msgid "First name"
+msgstr "Vorname"
+
+#: planso-leads-external/includes/edit.php:161
+#: planso-leads-external/includes/edit.php:184
+#: planso-leads-external/includes/edit.php:209
+#: planso-leads/planso-leads.php:319 planso-leads/planso-leads.php:342
+#: planso-leads/planso-leads.php:367
+msgid "Please enter your first name."
+msgstr "Bitte tragen Sie Ihren Vornamen ein."
+
+#: planso-leads-external/includes/edit.php:166
+#: planso-leads/planso-leads.php:324
+msgid "Last name"
+msgstr "Nachname"
+
+#: planso-leads-external/includes/edit.php:172
+#: planso-leads/planso-leads.php:330
+msgid "Please enter your last name."
+msgstr "Bitte tragen Sie Ihren Nachnamen ein."
+
+#: planso-leads-external/includes/edit.php:178
+#: planso-leads/planso-leads.php:336
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: planso-leads-external/includes/edit.php:189
+#: planso-leads/planso-leads.php:347
+msgid "Company"
+msgstr "Unternehmen"
+
+#: planso-leads-external/includes/edit.php:195
+#: planso-leads/planso-leads.php:353
+msgid "Please enter the name of your company. This will be used as your login token."
+msgstr "Bitte tragen Sie den Namen Ihres Unternehmens ein."
+
+#: planso-leads-external/includes/edit.php:203
+#: planso-leads/planso-leads.php:361
+msgid "Website-Address"
+msgstr "Website Adresse"
+
+#: planso-leads-external/includes/edit.php:216
+#: planso-leads/planso-leads.php:374
+msgid "Token"
+msgstr "Token"
+
+#: planso-leads-external/includes/edit.php:216
+#: planso-leads/planso-leads.php:374
+msgid "Min 3 lowercase characters from a to z"
+msgstr "Mindestens 3 klein geschriebene Zeichen von a bis z"
+
+#: planso-leads-external/includes/edit.php:222
+#: planso-leads/planso-leads.php:380
+msgid "This is the subdomain your instance will be installed to."
+msgstr "Dies wird die Subdomain unter der Ihre Instanz erreichbar sein wird."
+
+#: planso-leads-external/includes/edit.php:228
+msgid "I have read and accepted the terms &amp; conditions"
+msgstr "Ich habe die AGB gelesen und akzeptiere diese."
+
+#: planso-leads-external/includes/edit.php:232
+msgid "Check this to mark the field as required"
+msgstr "Aktivieren Sie dieses Kästchen um das Feld als erforderlich zu markieren"
+
+#: planso-leads-external/includes/edit.php:237
+msgid "Register free trial"
+msgstr "Kostenlose Test-Version anfordern"
+
+#: planso-leads-external/includes/edit.php:246
+#: planso-leads/planso-leads.php:438
+msgid "Thank you for signing up"
+msgstr "Vielen Dank für Ihre Anmeldung"
+
+#: planso-leads-external/includes/edit.php:251
+#: planso-leads/planso-leads.php:443
+msgid "Your PlanSo account is ready!"
+msgstr "Ihre PlanSo Instanz wurde erfolgreich erstellt!"
+
+#: planso-leads-external/includes/edit.php:253
+#: planso-leads/planso-leads.php:445
+msgid "In short you will receive an email containig your username and password as well as the login url."
+msgstr "Sie erhalten in Kürze eine E-Mail mit Ihren Zugangsdaten sowie Ihre persönliche Login-Url."
+
+#: planso-leads-external/includes/edit.php:254
+#: planso-leads/planso-leads.php:446
+msgid "As soon as you login for the first time you will be able to create your lead teasers."
+msgstr "Sobald Sie sich das erste mal einloggen können Sie Ihren ersten Teaser anlegen."
+
+#: planso-leads-external/includes/edit.php:255
+#: planso-leads/planso-leads.php:447
+msgid "In case you have any questions regarding PlanSo do not hesitate to contact us via support@planso.de!"
+msgstr "Sollten Sie Fragen bezüglich PlanSo haben, zögern Sie bitte nicht, uns via support@planso.de zu kontaktieren."
+
+#: planso-leads-external/includes/edit.php:260
+#: planso-leads/planso-leads.php:452
+msgid "Continue to login"
+msgstr "Weiter zum Login"
+
+#: planso-leads-external/planso-leads-external.php:32
+msgid "Unnamed"
+msgstr "Unbenannt"
+
+#: planso-leads/planso-leads.php:59 planso-leads/planso-leads.php:60
+#: planso-leads/planso-leads.php:134
+msgid "PlanSo Leads"
+msgstr "PlanSo Leads"
+
+#: planso-leads/planso-leads.php:130
+msgid "Like PlanSo Leads? Post a review!"
+msgstr "Dir gefällt PlanSo Leads? Schreibe eine Bewertung!"
+
+#: planso-leads/planso-leads.php:384
+msgid "Clicking the button below will submit the information entered above to PlanSo.de. A new instance of PlanSo Leads will then be installed for you and you will receive an email with your administrator credentials. You will <b>not</b> be billed anything and <b>no credit card is required</b> until you decide to upgrade to a paid plan. For the details of the different plans please refere to our website at:"
+msgstr "Durch betätigen des nachfolgenden Buttons übermitteln Sie die oben eingetragenen Informationen an PlanSo.de. Eine neue Instanz von PlanSo Leads wird dann für Sie installiert und Sie werden eine E-Mail mit den Zugangsdaten erhalten. Ihnen wird dabei <b>NICHTS</b> berechnet und Sie benötigen <b>keine Kreditkarte oder andere Zahlungsdaten</b> bis Sie sich für ein kostenpflichtiges Upgrade entscheiden. Für die Tarif-Details besuchen Sie bitte unsere Website auf:"
+
+#: planso-leads/planso-leads.php:388
+msgid "Obtain free token"
+msgstr "Kostenlosen Token anfordern"
+
+#: planso-leads/planso-leads.php:408
+msgid "Company Token"
+msgstr "Unternehmens Token"
+
+#: planso-leads/planso-leads.php:414
+msgid "The company token is the word found in front of planso.de as in TOKEN.planso.de when logging into your instance."
+msgstr "Ihr Unternehmens-Token ist das Wort, das Sie vor planso.de wie in TOKEN.planso.de vorfinden, wenn Sie sich in Ihre Instanz einloggen."
+
+#: planso-leads/planso-leads.php:423
+msgid "Update"
+msgstr "Aktualisieren"
